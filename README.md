@@ -1,2 +1,3 @@
-# 220V-Automatic-Voltage-Stablizer
-single phase 220V 25Amps Smart Voltage Stablizer
+# 220V-Automatic-Voltage-Stabilizer
+single phase 220V 25Amps Smart Voltage Stabilizer
+This system can be designed and manufactured as a 5 to 7-tab stabilizer. additional wiring and relay connection is required. also, an appropriate transformator which be able to increase or decrease voltage is needed(picture transformation). the system uses an ATmega8 Microcontroller and can measure, control, and exhibit Input and Output voltages by 2 ADC Channels and 3-digit seven segments. Furthermore, the turn-on time when the system starts working can be modified by the user. the voltage addition or drop on any tabs of transformator with the amount of error on each tab(Hysteresis) can be controlled too.
